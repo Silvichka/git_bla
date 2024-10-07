@@ -4,7 +4,7 @@ public class Main {
         System.out.println(adder.add(1, 2));
 
         Subtractor sub = new Subtractor();
-        System.out.println(sub.substract(6, 3));
+        System.out.println(sub.sub(10, 2));
         // comment smth
     }
 }
